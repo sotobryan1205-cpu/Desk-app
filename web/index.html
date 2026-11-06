@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="theme-color" content="#000000" />
+  <title>Grok Bot Desk</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <link rel="stylesheet" href="app.css" />
+</head>
+<body>
+  <div id="app">
+    <div id="err" class="errbar" style="display:none"></div>
+    <div id="updated" class="updated"></div>
+
+    <section id="screen-home" class="screen active">
+      <div class="nav">
+        <button class="avatar" id="btn-avatar" type="button" aria-label="Account">GB</button>
+        <div class="nav-title">Grok Bot ›</div>
+        <span id="mode-pill" class="pill paper">PAPER</span>
+      </div>
+      <div id="balance" class="balance tabular">—</div>
+      <div class="subrow">
+        <span id="today-pct" class="tabular">—</span>
+        <span id="mult" class="pill mult">—</span>
+      </div>
+      <div class="range" id="chart-range">
+        <button data-r="LIVE" class="on" type="button">LIVE</button>
+        <button data-r="1H" type="button">1H</button>
+        <button data-r="4H" type="button">4H</button>
+        <button data-r="1D" type="button">1D</button>
+        <button data-r="1W" type="button">1W</button>
+        <button data-r="ALL" type="button">ALL</button>
+      </div>
+      <div class="card" style="padding:8px"><canvas id="home-chart" class="chart"></canvas></div>
+      <div class="section-label">Agents · <span id="agents-running">5</span></div>
+      <div class="agent-carousel" id="agent-carousel"></div>
+      <div class="section-label">Activity · See all</div>
+      <div class="card" id="home-activity"></div>
+    </section>
+
+    <section id="screen-agents" class="screen">
+      <div class="nav"><div class="nav-title">Agents</div></div>
+      <div id="agents-list"></div>
+      <p class="muted">Pause / resume and settings changes go through Telegram (@Bryan_desk_bot). Plan B has no write API.</p>
+    </section>
+
+    <section id="screen-activity" class="screen">
+      <div class="nav"><div class="nav-title">Activity</div></div>
+      <div class="card" id="activity-list"></div>
+    </section>
+
+    <section id="screen-account" class="screen">
+      <div class="nav"><div class="nav-title">Account</div></div>
+      <div class="card" id="account-card"></div>
+      <p class="muted">Web Push: not available on Plan B (GitHub Pages). Telegram only — the desk already pushes there.</p>
+      <a class="btn secondary" id="btn-profile" href="#" target="_blank" rel="noopener">Your FOMO profile</a>
+      <a class="btn" id="btn-invite" href="#" target="_blank" rel="noopener">Invite a friend</a>
+    </section>
+
+    <section id="screen-auditor" class="screen">
+      <div class="nav">
+        <button class="back" id="aud-back" type="button">‹</button>
+        <div class="nav-title">Auditor</div>
+      </div>
+      <div class="card" id="auditor-body"><div class="empty">No coin taken apart yet</div></div>
+      <a class="btn" id="aud-fomo" href="#" target="_blank" rel="noopener">Open on FOMO</a>
+    </section>
+
+    <section id="screen-coin" class="screen">
+      <div class="nav">
+        <button class="back" id="coin-back" type="button">‹</button>
+        <div class="nav-title" id="coin-title">Coin</div>
+        <span id="coin-paper" class="pill paper">PAPER</span>
+      </div>
+      <div id="coin-price" class="balance tabular" style="font-size:40px">—</div>
+      <div class="subrow" id="coin-sub"></div>
+      <div class="card" style="padding:8px"><canvas id="coin-chart" class="chart"></canvas></div>
+      <div class="card" id="coin-stats"></div>
+      <div class="card" id="coin-pos"></div>
+      <a class="btn" id="coin-fomo" href="#" target="_blank" rel="noopener">Buy on FOMO</a>
+    </section>
+
+    <nav class="tabs" aria-label="Tabs">
+      <button class="tab active" data-tab="home" type="button"><span>⌂</span><span>Home</span></button>
+      <button class="tab" data-tab="agents" type="button"><span>▦</span><span>Agents</span></button>
+      <button class="tab" data-tab="activity" type="button"><span>≡</span><span>Activity</span></button>
+      <button class="tab" data-tab="account" type="button"><span>●</span><span>Account</span></button>
+    </nav>
+  </div>
+  <script src="chart.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
