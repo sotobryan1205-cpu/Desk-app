@@ -1,0 +1,18 @@
+{
+  "mint": "3fMSe95ghNsP7oFTZw3NQLpf2vUCTdFcpUBokHPFpump",
+  "name": "Cuba Libre ",
+  "symbol": "$LIBRE",
+  "price": 4.24e-08,
+  "candles": [
+    {
+      "t": "2026-11-07T16:03:38Z",
+      "v": 4.24e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=3fMSe95ghNsP7oFTZw3NQLpf2vUCTdFcpUBokHPFpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

@@ -1,0 +1,18 @@
+{
+  "mint": "4sa8fcr4Z45kzFTguj3yjqscYEPH6wqtDJJq539npump",
+  "name": "VETO",
+  "symbol": "VETO",
+  "price": 3.11e-05,
+  "candles": [
+    {
+      "t": "2026-11-07T19:06:48Z",
+      "v": 3.11e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=4sa8fcr4Z45kzFTguj3yjqscYEPH6wqtDJJq539npump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

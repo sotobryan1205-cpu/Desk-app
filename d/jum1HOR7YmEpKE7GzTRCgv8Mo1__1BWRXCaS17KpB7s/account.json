@@ -1,0 +1,13 @@
+{
+  "mode": "PAPER",
+  "stack": 600.0,
+  "stop_pct": 6.0,
+  "trail_pct": 12.0,
+  "analyst_mode": "rules",
+  "fomo_handle": "bryantrades05120",
+  "profile_url": "https://fomo.family/profile/bryantrades05120?source=share_link&r=savipww",
+  "signup_url": "https://fomo.family/r/savipww",
+  "notifier": "telegram",
+  "webpush": false,
+  "plan": "B"
+}

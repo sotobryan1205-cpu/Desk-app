@@ -1,0 +1,18 @@
+{
+  "mint": "CFxxQDnQxwF9BuRysPbPHy1X3kBxMR9piEkeUeszpump",
+  "name": "fomo.gay",
+  "symbol": "homo",
+  "price": 4.913e-05,
+  "candles": [
+    {
+      "t": "2026-11-07T15:12:25Z",
+      "v": 4.913e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=CFxxQDnQxwF9BuRysPbPHy1X3kBxMR9piEkeUeszpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

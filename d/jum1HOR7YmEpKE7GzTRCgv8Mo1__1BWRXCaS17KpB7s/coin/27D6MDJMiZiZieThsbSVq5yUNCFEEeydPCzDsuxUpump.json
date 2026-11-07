@@ -1,0 +1,18 @@
+{
+  "mint": "27D6MDJMiZiZieThsbSVq5yUNCFEEeydPCzDsuxUpump",
+  "name": "PIGEON KING",
+  "symbol": "$PIGEON",
+  "price": 3.677e-09,
+  "candles": [
+    {
+      "t": "2026-11-07T19:05:46Z",
+      "v": 3.677e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=27D6MDJMiZiZieThsbSVq5yUNCFEEeydPCzDsuxUpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

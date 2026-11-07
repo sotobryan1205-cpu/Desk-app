@@ -1,0 +1,18 @@
+{
+  "mint": "CMLJLxxFYGzYGvsZhgR3963VzZ87pdKCYCTaFSr4pump",
+  "name": "NEO",
+  "symbol": "K9 Neo",
+  "price": 7.282e-05,
+  "candles": [
+    {
+      "t": "2026-11-07T16:02:35Z",
+      "v": 7.282e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=CMLJLxxFYGzYGvsZhgR3963VzZ87pdKCYCTaFSr4pump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

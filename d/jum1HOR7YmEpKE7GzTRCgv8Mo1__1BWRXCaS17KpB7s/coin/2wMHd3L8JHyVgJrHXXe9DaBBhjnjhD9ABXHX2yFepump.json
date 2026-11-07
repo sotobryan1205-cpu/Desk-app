@@ -1,0 +1,18 @@
+{
+  "mint": "2wMHd3L8JHyVgJrHXXe9DaBBhjnjhD9ABXHX2yFepump",
+  "name": "goku coin",
+  "symbol": "sol",
+  "price": 3.298e-07,
+  "candles": [
+    {
+      "t": "2026-11-07T16:07:40Z",
+      "v": 3.298e-07
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=2wMHd3L8JHyVgJrHXXe9DaBBhjnjhD9ABXHX2yFepump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

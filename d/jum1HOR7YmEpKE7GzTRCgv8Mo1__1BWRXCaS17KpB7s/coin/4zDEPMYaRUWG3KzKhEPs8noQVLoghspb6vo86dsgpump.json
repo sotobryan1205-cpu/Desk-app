@@ -1,0 +1,18 @@
+{
+  "mint": "4zDEPMYaRUWG3KzKhEPs8noQVLoghspb6vo86dsgpump",
+  "name": "OFFICIAL BARRON",
+  "symbol": "BARRON",
+  "price": 0.0001049,
+  "candles": [
+    {
+      "t": "2026-11-07T18:02:12Z",
+      "v": 0.0001049
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=4zDEPMYaRUWG3KzKhEPs8noQVLoghspb6vo86dsgpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

@@ -1,0 +1,18 @@
+{
+  "mint": "BHvjyGcN8WZfEiBZGHcpWwjGKKY88kzBENfmczsLpump",
+  "name": "GTA6  COIN",
+  "symbol": "JUMP",
+  "price": 1.667e-08,
+  "candles": [
+    {
+      "t": "2026-11-07T16:08:40Z",
+      "v": 1.667e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=BHvjyGcN8WZfEiBZGHcpWwjGKKY88kzBENfmczsLpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

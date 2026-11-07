@@ -1,0 +1,18 @@
+{
+  "mint": "GCTevf6n96QuQX5fzMx34D3iYGhDGSubbMXmUNfXpump",
+  "name": "Laughing Monkey Coin",
+  "symbol": "LMC",
+  "price": 1.813e-08,
+  "candles": [
+    {
+      "t": "2026-11-07T18:01:11Z",
+      "v": 1.813e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=GCTevf6n96QuQX5fzMx34D3iYGhDGSubbMXmUNfXpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}
