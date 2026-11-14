@@ -1,0 +1,18 @@
+{
+  "mint": "Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump",
+  "name": "Cyber Pandemic",
+  "symbol": "CYBER",
+  "price": 2.515e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T21:09:12Z",
+      "v": 2.515e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

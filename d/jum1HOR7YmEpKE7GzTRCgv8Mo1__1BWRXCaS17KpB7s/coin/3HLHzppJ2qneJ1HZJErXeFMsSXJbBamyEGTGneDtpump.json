@@ -1,0 +1,18 @@
+{
+  "mint": "3HLHzppJ2qneJ1HZJErXeFMsSXJbBamyEGTGneDtpump",
+  "name": "Chovy",
+  "symbol": "Chovy",
+  "price": 2.342e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:45:58Z",
+      "v": 2.342e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=3HLHzppJ2qneJ1HZJErXeFMsSXJbBamyEGTGneDtpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

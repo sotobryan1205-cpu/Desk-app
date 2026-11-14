@@ -1,0 +1,18 @@
+{
+  "mint": "BM5ySMLcqRsXgwy9bqMA5xLEr4CTjopirweEdEMZpump",
+  "name": "Bre$t",
+  "symbol": "BRE$T",
+  "price": 2.434e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T21:08:10Z",
+      "v": 2.434e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=BM5ySMLcqRsXgwy9bqMA5xLEr4CTjopirweEdEMZpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

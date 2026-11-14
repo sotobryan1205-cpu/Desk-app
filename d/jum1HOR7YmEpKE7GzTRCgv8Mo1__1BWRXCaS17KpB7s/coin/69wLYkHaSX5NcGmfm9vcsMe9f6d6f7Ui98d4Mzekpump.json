@@ -1,0 +1,18 @@
+{
+  "mint": "69wLYkHaSX5NcGmfm9vcsMe9f6d6f7Ui98d4Mzekpump",
+  "name": "Life Lately",
+  "symbol": "LIFE",
+  "price": 3.389e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T21:07:09Z",
+      "v": 3.389e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=69wLYkHaSX5NcGmfm9vcsMe9f6d6f7Ui98d4Mzekpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

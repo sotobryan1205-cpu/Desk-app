@@ -1,0 +1,505 @@
+{
+  "rows": [
+    {
+      "ts": "2026-11-14T21:09:43Z",
+      "kind": "rejected",
+      "mint": "Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump",
+      "agent": "scanner",
+      "title": "Cyber Pandemic",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:09:12Z",
+      "kind": "rejected",
+      "mint": "4sXEPKvnSUqHCU8Rf8B1JVE5SR5wF5wq4tHhW1nepump",
+      "agent": "scanner",
+      "title": "\ud83d\udc08\u200d\u2b1b Fomo Cat \ud83d\udc08\u200d\u2b1b",
+      "subtitle": "Scanner \u00b7 liq $0.3K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:09:05Z",
+      "kind": "scan",
+      "mint": "EVwKvgGm5wE7jvEfbGbUZkFPjx7GgHEPwU4n9cbepump",
+      "agent": "scanner",
+      "title": "Migration EVwKvg\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:08:41Z",
+      "kind": "rejected",
+      "mint": "BM5ySMLcqRsXgwy9bqMA5xLEr4CTjopirweEdEMZpump",
+      "agent": "scanner",
+      "title": "Bre$t",
+      "subtitle": "Scanner \u00b7 liq $9.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:08:10Z",
+      "kind": "rejected",
+      "mint": "Djun2c7TyaqRnEptsFpHSes1md1LrmEkF1uVheshpump",
+      "agent": "scanner",
+      "title": "ROCKET SHIBA",
+      "subtitle": "Scanner \u00b7 liq $0.1K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:08:08Z",
+      "kind": "scan",
+      "mint": "G9b8142JDrEieCwVck4KLEdmEUZTz1QJx87zUWngpump",
+      "agent": "scanner",
+      "title": "Migration G9b814\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:07:41Z",
+      "kind": "scan",
+      "mint": "35fzeoDPQorbPTyTN6FptUhmzHJTJSkqmbx3a9bnpump",
+      "agent": "scanner",
+      "title": "Migration 35fzeo\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:07:40Z",
+      "kind": "rejected",
+      "mint": "69wLYkHaSX5NcGmfm9vcsMe9f6d6f7Ui98d4Mzekpump",
+      "agent": "scanner",
+      "title": "Life Lately",
+      "subtitle": "Scanner \u00b7 liq $11.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:07:06Z",
+      "kind": "scan",
+      "mint": "Gt1G6V5YEb9GyZzjq3wwxzDGU56BQwiK2eZP9dgFpump",
+      "agent": "scanner",
+      "title": "Migration Gt1G6V\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:06:29Z",
+      "kind": "scan",
+      "mint": "4sXEPKvnSUqHCU8Rf8B1JVE5SR5wF5wq4tHhW1nepump",
+      "agent": "scanner",
+      "title": "Migration 4sXEPK\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:06:13Z",
+      "kind": "scan",
+      "mint": "BM5ySMLcqRsXgwy9bqMA5xLEr4CTjopirweEdEMZpump",
+      "agent": "scanner",
+      "title": "Migration BM5ySM\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:05:49Z",
+      "kind": "scan",
+      "mint": "Djun2c7TyaqRnEptsFpHSes1md1LrmEkF1uVheshpump",
+      "agent": "scanner",
+      "title": "Migration Djun2c\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:05:10Z",
+      "kind": "scan",
+      "mint": "69wLYkHaSX5NcGmfm9vcsMe9f6d6f7Ui98d4Mzekpump",
+      "agent": "scanner",
+      "title": "Migration 69wLYk\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:04:09Z",
+      "kind": "rejected",
+      "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump",
+      "agent": "scanner",
+      "title": "PumpMas",
+      "subtitle": "Scanner \u00b7 liq $10.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:00:38Z",
+      "kind": "rejected",
+      "mint": "qBvEaT5XzmmPiYPy83Qez7df27irEufQAYxmQ1cpump",
+      "agent": "scanner",
+      "title": "PRAY FOR TRUMP",
+      "subtitle": "Scanner \u00b7 liq $11.9K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T21:00:07Z",
+      "kind": "rejected",
+      "mint": "8owukccD18vknuQnYCd1tBoBPgb5oWPFvULi1EYppump",
+      "agent": "scanner",
+      "title": "RONALDO 1000 GOALS",
+      "subtitle": "Scanner \u00b7 liq $10.5K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:59:58Z",
+      "kind": "scan",
+      "mint": "EwUVBpdM5vw1CJHRMSLywzVjyQSJZpy6qboxEPBKpump",
+      "agent": "scanner",
+      "title": "Migration EwUVBp\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:59:17Z",
+      "kind": "rejected",
+      "mint": "DGAnb2Uz7SPK7qrDjX9giVTj3FKRhJyLx95Wh4wxZpyZ",
+      "agent": "scanner",
+      "title": "Filtered DGAnb2Uz",
+      "subtitle": "Scanner \u00b7 filtered: not pump",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:56:36Z",
+      "kind": "rejected",
+      "mint": "8mtZxYosx8UH7WTg8aFk2qpMj2YT3rLudyUBYt5tpump",
+      "agent": "scanner",
+      "title": "TARGET TRUMP",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:56:20Z",
+      "kind": "scan",
+      "mint": "qBvEaT5XzmmPiYPy83Qez7df27irEufQAYxmQ1cpump",
+      "agent": "scanner",
+      "title": "Migration qBvEaT\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:56:05Z",
+      "kind": "rejected",
+      "mint": "Gj3UV1TGkKmMTose9nDmPNDdycvedvxS3rKVtXzXpump",
+      "agent": "scanner",
+      "title": "Villecoin",
+      "subtitle": "Scanner \u00b7 liq $11.1K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:55:34Z",
+      "kind": "rejected",
+      "mint": "FUJVh9hP8wCXC8grL5sy5KN1x5Mucxm8fvk1TSWkpump",
+      "agent": "scanner",
+      "title": "The Last Hodler",
+      "subtitle": "Scanner \u00b7 liq $5.7K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:55:04Z",
+      "kind": "rejected",
+      "mint": "HdbWQeUQo5tDw3uV4d4kBpdVCY28vyuxk1bqXY85pump",
+      "agent": "scanner",
+      "title": "Sockmonkeycoin",
+      "subtitle": "Scanner \u00b7 liq $10.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:54:52Z",
+      "kind": "scan",
+      "mint": "8owukccD18vknuQnYCd1tBoBPgb5oWPFvULi1EYppump",
+      "agent": "scanner",
+      "title": "Migration 8owukc\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:54:33Z",
+      "kind": "rejected",
+      "mint": "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump",
+      "agent": "scanner",
+      "title": "Potato chips",
+      "subtitle": "Scanner \u00b7 liq $10.6K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:54:02Z",
+      "kind": "rejected",
+      "mint": "9hNowTjRGzwjayrMWEP7VWcgfpXyGW7nruaHRikKpump",
+      "agent": "scanner",
+      "title": "GAMESHI LOVE YO",
+      "subtitle": "Scanner \u00b7 liq $11.1K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:53:05Z",
+      "kind": "scan",
+      "mint": "8mtZxYosx8UH7WTg8aFk2qpMj2YT3rLudyUBYt5tpump",
+      "agent": "scanner",
+      "title": "Migration 8mtZxY\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:52:48Z",
+      "kind": "scan",
+      "mint": "Gj3UV1TGkKmMTose9nDmPNDdycvedvxS3rKVtXzXpump",
+      "agent": "scanner",
+      "title": "Migration Gj3UV1\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:51:14Z",
+      "kind": "scan",
+      "mint": "FUJVh9hP8wCXC8grL5sy5KN1x5Mucxm8fvk1TSWkpump",
+      "agent": "scanner",
+      "title": "Migration FUJVh9\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:50:36Z",
+      "kind": "scan",
+      "mint": "HdbWQeUQo5tDw3uV4d4kBpdVCY28vyuxk1bqXY85pump",
+      "agent": "scanner",
+      "title": "Migration HdbWQe\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:50:31Z",
+      "kind": "rejected",
+      "mint": "997NDF2x8vDoPCkXCYAByd8QKzDUGGcv4pRkpyKwpump",
+      "agent": "scanner",
+      "title": "$BASTET",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:50:14Z",
+      "kind": "scan",
+      "mint": "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump",
+      "agent": "scanner",
+      "title": "Migration Bv8gmC\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:50:00Z",
+      "kind": "rejected",
+      "mint": "6tjBa9mqDdpo9aLMEeGGVQ25AoGLKRuViNagKbZXpump",
+      "agent": "scanner",
+      "title": "cat cow",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:49:19Z",
+      "kind": "scan",
+      "mint": "9hNowTjRGzwjayrMWEP7VWcgfpXyGW7nruaHRikKpump",
+      "agent": "scanner",
+      "title": "Migration 9hNowT\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:46:36Z",
+      "kind": "scan",
+      "mint": "997NDF2x8vDoPCkXCYAByd8QKzDUGGcv4pRkpyKwpump",
+      "agent": "scanner",
+      "title": "Migration 997NDF\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:46:29Z",
+      "kind": "rejected",
+      "mint": "3HLHzppJ2qneJ1HZJErXeFMsSXJbBamyEGTGneDtpump",
+      "agent": "scanner",
+      "title": "Chovy",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:45:59Z",
+      "kind": "scan",
+      "mint": "6tjBa9mqDdpo9aLMEeGGVQ25AoGLKRuViNagKbZXpump",
+      "agent": "scanner",
+      "title": "Migration 6tjBa9\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:45:58Z",
+      "kind": "rejected",
+      "mint": "HWagQerEDV7L4877mPc3PxeS3aJ7aAx51s5t2txGpump",
+      "agent": "scanner",
+      "title": "WRITERS",
+      "subtitle": "Scanner \u00b7 liq $10.7K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:45:27Z",
+      "kind": "rejected",
+      "mint": "t4whAqG9gUoc3HuGLwyqtHxJjCKi7n5xotX9ZH7pump",
+      "agent": "scanner",
+      "title": "ABUNDANCE ",
+      "subtitle": "Scanner \u00b7 liq $10.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:44:57Z",
+      "kind": "rejected",
+      "mint": "8RenTzG1iq5a7R7EMfUpcQrnStHvfeNFyxxNturkpump",
+      "agent": "scanner",
+      "title": "Aponex",
+      "subtitle": "Scanner \u00b7 liq $8.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:44:12Z",
+      "kind": "scan",
+      "mint": "3HLHzppJ2qneJ1HZJErXeFMsSXJbBamyEGTGneDtpump",
+      "agent": "scanner",
+      "title": "Migration 3HLHzp\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:42:44Z",
+      "kind": "scan",
+      "mint": "HWagQerEDV7L4877mPc3PxeS3aJ7aAx51s5t2txGpump",
+      "agent": "scanner",
+      "title": "Migration HWagQe\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:41:26Z",
+      "kind": "rejected",
+      "mint": "F8EMgXFApuYygC2kx7pyAy6KziUdfUfNd729YpvXpump",
+      "agent": "scanner",
+      "title": "Gta Coin",
+      "subtitle": "Scanner \u00b7 liq $20.2K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:40:55Z",
+      "kind": "rejected",
+      "mint": "H8DeBLFDxRvpVzb5BxwPnLaAUi8MnvEf6i5oPu6Xpump",
+      "agent": "scanner",
+      "title": "WOLF OF INDIA COIN",
+      "subtitle": "Scanner \u00b7 liq $0.1K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:40:47Z",
+      "kind": "scan",
+      "mint": "t4whAqG9gUoc3HuGLwyqtHxJjCKi7n5xotX9ZH7pump",
+      "agent": "scanner",
+      "title": "Migration t4whAq\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:40:25Z",
+      "kind": "scan",
+      "mint": "8RenTzG1iq5a7R7EMfUpcQrnStHvfeNFyxxNturkpump",
+      "agent": "scanner",
+      "title": "Migration 8RenTz\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:40:24Z",
+      "kind": "rejected",
+      "mint": "7NmbiwocJv7zF9ww6m2JmbhPpxNjVRiUwUkN21pEpump",
+      "agent": "scanner",
+      "title": "Jon Ossoff 2028",
+      "subtitle": "Scanner \u00b7 liq $8.2K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:39:53Z",
+      "kind": "rejected",
+      "mint": "6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump",
+      "agent": "scanner",
+      "title": "Chemo",
+      "subtitle": "Scanner \u00b7 liq $13.2K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:39:23Z",
+      "kind": "rejected",
+      "mint": "HkXoDCpKigxFWXpME4QcEE8QW5B7vv5EUzxPmqK8pump",
+      "agent": "scanner",
+      "title": "Nainud cat",
+      "subtitle": "Scanner \u00b7 liq $6.4K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-14T20:38:52Z",
+      "kind": "rejected",
+      "mint": "7QBkgcBojQ78kgKE9AUn6aXpfGbzr8r5PMmUjz2wpump",
+      "agent": "scanner",
+      "title": "Enio Finance",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    }
+  ],
+  "updated_at": "2026-11-14T21:10:35Z"
+}

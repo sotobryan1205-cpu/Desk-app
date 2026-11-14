@@ -1,0 +1,18 @@
+{
+  "mint": "8mtZxYosx8UH7WTg8aFk2qpMj2YT3rLudyUBYt5tpump",
+  "name": "TARGET TRUMP",
+  "symbol": "TARGET",
+  "price": 2.929e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:56:05Z",
+      "v": 2.929e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=8mtZxYosx8UH7WTg8aFk2qpMj2YT3rLudyUBYt5tpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

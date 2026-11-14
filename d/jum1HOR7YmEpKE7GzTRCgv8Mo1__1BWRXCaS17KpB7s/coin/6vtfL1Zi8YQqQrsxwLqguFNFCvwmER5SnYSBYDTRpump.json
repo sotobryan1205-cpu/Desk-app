@@ -1,0 +1,18 @@
+{
+  "mint": "6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump",
+  "name": "Chemo",
+  "symbol": "loco",
+  "price": 3.93e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:39:23Z",
+      "v": 3.93e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

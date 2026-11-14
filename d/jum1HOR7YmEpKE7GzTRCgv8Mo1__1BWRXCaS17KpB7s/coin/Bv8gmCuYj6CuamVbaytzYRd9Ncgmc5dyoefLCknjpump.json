@@ -1,0 +1,18 @@
+{
+  "mint": "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump",
+  "name": "Potato chips",
+  "symbol": "\u308b\u30dd\u30c6\u30c1",
+  "price": 2.765e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:54:02Z",
+      "v": 2.765e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

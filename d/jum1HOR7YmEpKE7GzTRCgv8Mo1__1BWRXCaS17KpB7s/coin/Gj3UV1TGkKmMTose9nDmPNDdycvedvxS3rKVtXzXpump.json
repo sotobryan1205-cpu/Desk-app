@@ -1,0 +1,18 @@
+{
+  "mint": "Gj3UV1TGkKmMTose9nDmPNDdycvedvxS3rKVtXzXpump",
+  "name": "Villecoin",
+  "symbol": "VC",
+  "price": 3.065e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:55:34Z",
+      "v": 3.065e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=Gj3UV1TGkKmMTose9nDmPNDdycvedvxS3rKVtXzXpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

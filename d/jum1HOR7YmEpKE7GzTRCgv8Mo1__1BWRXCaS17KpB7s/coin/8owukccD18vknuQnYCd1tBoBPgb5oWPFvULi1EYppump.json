@@ -1,0 +1,18 @@
+{
+  "mint": "8owukccD18vknuQnYCd1tBoBPgb5oWPFvULi1EYppump",
+  "name": "RONALDO 1000 GOALS",
+  "symbol": "CR1000",
+  "price": 2.774e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:59:36Z",
+      "v": 2.774e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=8owukccD18vknuQnYCd1tBoBPgb5oWPFvULi1EYppump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

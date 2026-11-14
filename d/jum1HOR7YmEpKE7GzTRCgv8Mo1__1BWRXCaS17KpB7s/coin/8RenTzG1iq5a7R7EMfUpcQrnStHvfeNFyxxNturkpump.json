@@ -1,0 +1,18 @@
+{
+  "mint": "8RenTzG1iq5a7R7EMfUpcQrnStHvfeNFyxxNturkpump",
+  "name": "Aponex",
+  "symbol": "APONEX",
+  "price": 1.989e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T20:44:26Z",
+      "v": 1.989e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=8RenTzG1iq5a7R7EMfUpcQrnStHvfeNFyxxNturkpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

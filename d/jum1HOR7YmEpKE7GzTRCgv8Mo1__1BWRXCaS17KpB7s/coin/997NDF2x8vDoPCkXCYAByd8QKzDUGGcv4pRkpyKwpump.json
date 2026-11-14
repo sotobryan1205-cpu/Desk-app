@@ -1,0 +1,18 @@
+{
+  "mint": "997NDF2x8vDoPCkXCYAByd8QKzDUGGcv4pRkpyKwpump",
+  "name": "$BASTET",
+  "symbol": "$BASTET",
+  "price": 2.398e-09,
+  "candles": [
+    {
+      "t": "2026-11-14T20:50:00Z",
+      "v": 2.398e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=997NDF2x8vDoPCkXCYAByd8QKzDUGGcv4pRkpyKwpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

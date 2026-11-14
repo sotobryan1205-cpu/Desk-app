@@ -1,0 +1,18 @@
+{
+  "mint": "qBvEaT5XzmmPiYPy83Qez7df27irEufQAYxmQ1cpump",
+  "name": "PRAY FOR TRUMP",
+  "symbol": "TRUMP",
+  "price": 3.404e-05,
+  "candles": [
+    {
+      "t": "2026-11-14T21:00:07Z",
+      "v": 3.404e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=qBvEaT5XzmmPiYPy83Qez7df27irEufQAYxmQ1cpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

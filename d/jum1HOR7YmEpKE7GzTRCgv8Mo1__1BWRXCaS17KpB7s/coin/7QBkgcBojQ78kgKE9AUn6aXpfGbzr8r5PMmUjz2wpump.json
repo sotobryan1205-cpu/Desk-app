@@ -1,0 +1,18 @@
+{
+  "mint": "7QBkgcBojQ78kgKE9AUn6aXpfGbzr8r5PMmUjz2wpump",
+  "name": "Enio Finance",
+  "symbol": "Enio Fiman",
+  "price": 9.261e-09,
+  "candles": [
+    {
+      "t": "2026-11-14T20:38:21Z",
+      "v": 9.261e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=7QBkgcBojQ78kgKE9AUn6aXpfGbzr8r5PMmUjz2wpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}
