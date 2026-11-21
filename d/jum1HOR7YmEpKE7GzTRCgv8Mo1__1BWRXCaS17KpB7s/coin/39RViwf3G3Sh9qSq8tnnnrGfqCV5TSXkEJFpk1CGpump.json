@@ -1,0 +1,18 @@
+{
+  "mint": "39RViwf3G3Sh9qSq8tnnnrGfqCV5TSXkEJFpk1CGpump",
+  "name": "uinhim",
+  "symbol": "uinhim",
+  "price": 5.788e-08,
+  "candles": [
+    {
+      "t": "2026-11-21T19:41:58Z",
+      "v": 5.788e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=39RViwf3G3Sh9qSq8tnnnrGfqCV5TSXkEJFpk1CGpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

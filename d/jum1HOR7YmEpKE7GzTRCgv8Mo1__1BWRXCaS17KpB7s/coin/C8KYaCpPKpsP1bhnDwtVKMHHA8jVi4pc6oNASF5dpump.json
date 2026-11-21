@@ -1,0 +1,18 @@
+{
+  "mint": "C8KYaCpPKpsP1bhnDwtVKMHHA8jVi4pc6oNASF5dpump",
+  "name": "Timmy Thick Token",
+  "symbol": "TIMMYTHICK",
+  "price": 2.836e-09,
+  "candles": [
+    {
+      "t": "2026-11-21T19:47:59Z",
+      "v": 2.836e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=C8KYaCpPKpsP1bhnDwtVKMHHA8jVi4pc6oNASF5dpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

@@ -1,0 +1,18 @@
+{
+  "mint": "2kj7bHHXrcMtMbdX5GJ21s74FzRuscHbvt24LgRApump",
+  "name": "CLAUDE",
+  "symbol": "CLAUDE",
+  "price": 1.482e-07,
+  "candles": [
+    {
+      "t": "2026-11-21T19:20:51Z",
+      "v": 1.482e-07
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=2kj7bHHXrcMtMbdX5GJ21s74FzRuscHbvt24LgRApump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

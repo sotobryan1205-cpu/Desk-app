@@ -1,0 +1,18 @@
+{
+  "mint": "HU5RtCesU76s12TDUsAGoefgvBCFforvJ7G2XD4Xpump",
+  "name": "pillention attention",
+  "symbol": "att",
+  "price": 1.37e-07,
+  "candles": [
+    {
+      "t": "2026-11-21T19:05:48Z",
+      "v": 1.37e-07
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=HU5RtCesU76s12TDUsAGoefgvBCFforvJ7G2XD4Xpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

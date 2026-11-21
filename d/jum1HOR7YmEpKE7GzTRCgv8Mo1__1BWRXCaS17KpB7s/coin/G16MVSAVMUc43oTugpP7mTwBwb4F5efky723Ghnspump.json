@@ -1,0 +1,18 @@
+{
+  "mint": "G16MVSAVMUc43oTugpP7mTwBwb4F5efky723Ghnspump",
+  "name": "GOLDEN GOOSE",
+  "symbol": "GOLDEN",
+  "price": 3.897e-10,
+  "candles": [
+    {
+      "t": "2026-11-21T19:51:00Z",
+      "v": 3.897e-10
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=G16MVSAVMUc43oTugpP7mTwBwb4F5efky723Ghnspump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

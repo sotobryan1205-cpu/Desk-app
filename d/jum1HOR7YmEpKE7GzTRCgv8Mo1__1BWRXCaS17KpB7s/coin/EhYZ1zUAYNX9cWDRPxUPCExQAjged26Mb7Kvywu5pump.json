@@ -1,0 +1,18 @@
+{
+  "mint": "EhYZ1zUAYNX9cWDRPxUPCExQAjged26Mb7Kvywu5pump",
+  "name": "CLAWDIA",
+  "symbol": "CLAWDIA",
+  "price": 3.229e-05,
+  "candles": [
+    {
+      "t": "2026-11-21T19:29:53Z",
+      "v": 3.229e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=EhYZ1zUAYNX9cWDRPxUPCExQAjged26Mb7Kvywu5pump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

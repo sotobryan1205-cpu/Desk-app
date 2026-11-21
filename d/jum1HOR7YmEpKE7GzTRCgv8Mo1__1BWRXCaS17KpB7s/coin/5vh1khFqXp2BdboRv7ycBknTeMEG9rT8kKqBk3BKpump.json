@@ -1,0 +1,18 @@
+{
+  "mint": "5vh1khFqXp2BdboRv7ycBknTeMEG9rT8kKqBk3BKpump",
+  "name": "Chudfish",
+  "symbol": "JEREMY",
+  "price": 1.625e-05,
+  "candles": [
+    {
+      "t": "2026-11-21T19:54:02Z",
+      "v": 1.625e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=5vh1khFqXp2BdboRv7ycBknTeMEG9rT8kKqBk3BKpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

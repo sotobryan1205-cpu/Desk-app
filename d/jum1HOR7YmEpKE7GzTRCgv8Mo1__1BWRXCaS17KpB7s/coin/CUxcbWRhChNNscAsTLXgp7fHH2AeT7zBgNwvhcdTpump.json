@@ -1,0 +1,18 @@
+{
+  "mint": "CUxcbWRhChNNscAsTLXgp7fHH2AeT7zBgNwvhcdTpump",
+  "name": "housecoin",
+  "symbol": "house",
+  "price": 2.579e-05,
+  "candles": [
+    {
+      "t": "2026-11-21T19:44:59Z",
+      "v": 2.579e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=CUxcbWRhChNNscAsTLXgp7fHH2AeT7zBgNwvhcdTpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

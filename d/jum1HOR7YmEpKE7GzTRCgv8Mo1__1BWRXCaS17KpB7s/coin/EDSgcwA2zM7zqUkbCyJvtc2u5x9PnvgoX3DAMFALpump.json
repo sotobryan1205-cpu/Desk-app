@@ -1,0 +1,18 @@
+{
+  "mint": "EDSgcwA2zM7zqUkbCyJvtc2u5x9PnvgoX3DAMFALpump",
+  "name": "$HAVE A GOOD DAY",
+  "symbol": "$LA BEAST",
+  "price": 2.663e-09,
+  "candles": [
+    {
+      "t": "2026-11-21T19:11:50Z",
+      "v": 2.663e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=EDSgcwA2zM7zqUkbCyJvtc2u5x9PnvgoX3DAMFALpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

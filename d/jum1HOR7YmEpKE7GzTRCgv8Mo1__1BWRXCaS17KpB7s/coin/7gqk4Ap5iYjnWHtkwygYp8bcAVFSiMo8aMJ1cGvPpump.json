@@ -1,0 +1,18 @@
+{
+  "mint": "7gqk4Ap5iYjnWHtkwygYp8bcAVFSiMo8aMJ1cGvPpump",
+  "name": "Official Obama Coin",
+  "symbol": "OBAMA",
+  "price": 2.861e-05,
+  "candles": [
+    {
+      "t": "2026-11-21T19:14:50Z",
+      "v": 2.861e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=7gqk4Ap5iYjnWHtkwygYp8bcAVFSiMo8aMJ1cGvPpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

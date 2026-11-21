@@ -1,0 +1,18 @@
+{
+  "mint": "3YCD4NAKfUtK41cYU43nU2YTv6TcS7o2oZdgmjqppump",
+  "name": "Brother of Fiona",
+  "symbol": "FRITZ",
+  "price": 2.057e-09,
+  "candles": [
+    {
+      "t": "2026-11-21T19:35:56Z",
+      "v": 2.057e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=3YCD4NAKfUtK41cYU43nU2YTv6TcS7o2oZdgmjqppump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

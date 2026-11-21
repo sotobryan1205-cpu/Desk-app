@@ -1,0 +1,18 @@
+{
+  "mint": "DcXt3VREW9kJvN2wAyRpYDacg12W7Dzy3RjEMxQDpump",
+  "name": "PUMP IS FUN",
+  "symbol": "fun",
+  "price": 2.947e-08,
+  "candles": [
+    {
+      "t": "2026-11-21T19:51:01Z",
+      "v": 2.947e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=DcXt3VREW9kJvN2wAyRpYDacg12W7Dzy3RjEMxQDpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}
