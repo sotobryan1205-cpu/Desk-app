@@ -1,0 +1,18 @@
+{
+  "mint": "9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump",
+  "name": "fix check",
+  "symbol": "Dogfix",
+  "price": 3.276e-08,
+  "candles": [
+    {
+      "t": "2026-11-28T14:16:43Z",
+      "v": 3.276e-08
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

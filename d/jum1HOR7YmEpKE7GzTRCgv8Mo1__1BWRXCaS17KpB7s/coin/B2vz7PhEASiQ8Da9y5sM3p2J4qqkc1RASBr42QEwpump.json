@@ -1,0 +1,18 @@
+{
+  "mint": "B2vz7PhEASiQ8Da9y5sM3p2J4qqkc1RASBr42QEwpump",
+  "name": "DACITY",
+  "symbol": "DACITY",
+  "price": 1.301e-11,
+  "candles": [
+    {
+      "t": "2026-11-28T14:09:21Z",
+      "v": 1.301e-11
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=B2vz7PhEASiQ8Da9y5sM3p2J4qqkc1RASBr42QEwpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

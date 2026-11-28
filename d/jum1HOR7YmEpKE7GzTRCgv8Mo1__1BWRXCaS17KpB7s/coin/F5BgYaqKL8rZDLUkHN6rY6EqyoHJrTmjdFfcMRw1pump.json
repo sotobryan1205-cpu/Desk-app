@@ -1,0 +1,18 @@
+{
+  "mint": "F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump",
+  "name": "MoonBoy",
+  "symbol": "MoonBoy",
+  "price": 3.237e-05,
+  "candles": [
+    {
+      "t": "2026-11-28T14:16:36Z",
+      "v": 3.237e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

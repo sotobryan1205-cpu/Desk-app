@@ -1,0 +1,18 @@
+{
+  "mint": "HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump",
+  "name": "HOHOCOIN",
+  "symbol": "$SANTA",
+  "price": 7.916e-09,
+  "candles": [
+    {
+      "t": "2026-11-28T13:37:36Z",
+      "v": 7.916e-09
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

@@ -1,0 +1,18 @@
+{
+  "mint": "NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump",
+  "name": "do nothing and win",
+  "symbol": "nothing",
+  "price": 5.594e-05,
+  "candles": [
+    {
+      "t": "2026-11-28T14:06:02Z",
+      "v": 5.594e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

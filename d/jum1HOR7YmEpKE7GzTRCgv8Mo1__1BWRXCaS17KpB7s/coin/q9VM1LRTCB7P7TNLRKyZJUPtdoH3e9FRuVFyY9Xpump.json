@@ -1,0 +1,18 @@
+{
+  "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump",
+  "name": "do nothing and win",
+  "symbol": "nothing",
+  "price": 6.84e-05,
+  "candles": [
+    {
+      "t": "2026-11-28T14:16:18Z",
+      "v": 6.84e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

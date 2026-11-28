@@ -1,0 +1,18 @@
+{
+  "mint": "14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump",
+  "name": "TikTok | Official Team",
+  "symbol": "TikTok US",
+  "price": 1.323e-05,
+  "candles": [
+    {
+      "t": "2026-11-28T14:02:23Z",
+      "v": 1.323e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}

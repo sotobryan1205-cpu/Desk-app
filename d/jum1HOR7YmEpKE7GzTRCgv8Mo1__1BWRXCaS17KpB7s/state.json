@@ -1,0 +1,1121 @@
+{
+  "updated_at": "2026-11-28T14:25:09Z",
+  "mode": "PAPER",
+  "balance": 600.0,
+  "today_pct": 0.0,
+  "multiplier": 1.0,
+  "agents": [
+    {
+      "name": "scanner",
+      "label": "Scanner",
+      "status": "running",
+      "headline": "20 pools",
+      "subtitle": "last kill",
+      "decisions": [
+        {
+          "ts": "14:22:51",
+          "coin": "ECDVGEF3",
+          "verdict": "kill",
+          "reason": "liq $11.7K",
+          "source": null
+        },
+        {
+          "ts": "14:22:51",
+          "coin": "4fPvmLxt",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:22:50",
+          "coin": "4Hv8T8NQ",
+          "verdict": "kill",
+          "reason": "liq $11.2K",
+          "source": null
+        },
+        {
+          "ts": "14:16:44",
+          "coin": "9raaacUT",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:16:43",
+          "coin": "F5BgYaqK",
+          "verdict": "kill",
+          "reason": "liq $11.4K",
+          "source": null
+        },
+        {
+          "ts": "14:16:36",
+          "coin": "q9VM1LRT",
+          "verdict": "kill",
+          "reason": "liq $17.5K",
+          "source": null
+        },
+        {
+          "ts": "14:13:18",
+          "coin": "5uQ1JcBK",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:13:17",
+          "coin": "CajDcXd6",
+          "verdict": "kill",
+          "reason": "liq $1.8K",
+          "source": null
+        },
+        {
+          "ts": "14:10:07",
+          "coin": "GnhPU69x",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:09:47",
+          "coin": "CGYQExMm",
+          "verdict": "kill",
+          "reason": "liq $11.5K",
+          "source": null
+        },
+        {
+          "ts": "14:09:32",
+          "coin": "B2vz7PhE",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:06:21",
+          "coin": "NifiKQLL",
+          "verdict": "kill",
+          "reason": "liq $15.4K",
+          "source": null
+        },
+        {
+          "ts": "14:06:02",
+          "coin": "DqTMppoG",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "14:06:00",
+          "coin": "gGUroLU4",
+          "verdict": "kill",
+          "reason": "liq $10.7K",
+          "source": null
+        },
+        {
+          "ts": "14:02:41",
+          "coin": "14dxyCmV",
+          "verdict": "kill",
+          "reason": "liq $5.3K",
+          "source": null
+        },
+        {
+          "ts": "13:56:23",
+          "coin": "5mL92bMe",
+          "verdict": "kill",
+          "reason": "liq $12.0K",
+          "source": null
+        },
+        {
+          "ts": "13:53:03",
+          "coin": "2B8Kg2VP",
+          "verdict": "kill",
+          "reason": "liq $0.0K",
+          "source": null
+        },
+        {
+          "ts": "13:46:58",
+          "coin": "8b26nAYz",
+          "verdict": "kill",
+          "reason": "liq $10.9K",
+          "source": null
+        },
+        {
+          "ts": "13:46:58",
+          "coin": "EvN4RDyo",
+          "verdict": "kill",
+          "reason": "liq $12.5K",
+          "source": null
+        },
+        {
+          "ts": "13:46:53",
+          "coin": "58JPFChX",
+          "verdict": "kill",
+          "reason": "never qualified",
+          "source": null
+        }
+      ]
+    },
+    {
+      "name": "auditor",
+      "label": "Auditor",
+      "status": "running",
+      "headline": "8/8",
+      "subtitle": "",
+      "layers": [
+        {
+          "n": 1,
+          "name": "Mint authority",
+          "pass": true,
+          "value": "Revoked"
+        },
+        {
+          "n": 2,
+          "name": "Freeze authority",
+          "pass": true,
+          "value": "Revoked"
+        },
+        {
+          "n": 3,
+          "name": "Dev wallet",
+          "pass": true,
+          "value": "0.0% \u00b7 sold 0"
+        },
+        {
+          "n": 4,
+          "name": "Top 10 holders",
+          "pass": true,
+          "value": "24.3%"
+        },
+        {
+          "n": 5,
+          "name": "Liquidity",
+          "pass": true,
+          "value": "100% locked"
+        },
+        {
+          "n": 6,
+          "name": "Pool age",
+          "pass": true,
+          "value": "12m"
+        },
+        {
+          "n": 7,
+          "name": "Bundled wallets",
+          "pass": true,
+          "value": "None"
+        },
+        {
+          "n": 8,
+          "name": "Delegations",
+          "pass": true,
+          "value": "None"
+        }
+      ],
+      "decisions": []
+    },
+    {
+      "name": "analyst",
+      "label": "Analyst",
+      "status": "running",
+      "headline": "Scoring",
+      "subtitle": "rules mode",
+      "score": 68,
+      "decisions": [
+        {
+          "ts": "23:26:13",
+          "coin": "9msLfYfX",
+          "verdict": "fail",
+          "reason": "chase 0.65"
+        },
+        {
+          "ts": "19:48:48",
+          "coin": "CvXQ9qEr",
+          "verdict": "fail",
+          "reason": "alive_6h 0.28"
+        },
+        {
+          "ts": "10:35:06",
+          "coin": "EBiQSJ9d",
+          "verdict": "fail",
+          "reason": "alive_6h 0.30"
+        }
+      ]
+    },
+    {
+      "name": "executor",
+      "label": "Executor",
+      "status": "running",
+      "headline": "0 trades",
+      "subtitle": "PAPER fills only",
+      "decisions": []
+    },
+    {
+      "name": "risk",
+      "label": "Risk",
+      "status": "running",
+      "headline": "Idle",
+      "subtitle": "stop -6% \u00b7 trail 12%",
+      "decisions": []
+    },
+    {
+      "name": "copy",
+      "label": "Copy",
+      "status": "running",
+      "headline": "7 signals",
+      "subtitle": "watching 4 wallets",
+      "decisions": [
+        {
+          "ts": "22:26:13",
+          "coin": "ALLINU",
+          "verdict": "kill",
+          "reason": "@starcatcher444 \u00b7 scanner \u00b7 top 10 hold 26%",
+          "source": "copy:starcatcher444"
+        },
+        {
+          "ts": "22:24:48",
+          "coin": "4MMQY9bw",
+          "verdict": "seen",
+          "reason": "@starcatcher444 \u00b7 detected",
+          "source": "copy:starcatcher444"
+        },
+        {
+          "ts": "21:15:36",
+          "coin": "Take-Two",
+          "verdict": "kill",
+          "reason": "@diarra_mmd \u00b7 scanner \u00b7 top 10 hold 28%",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "21:15:23",
+          "coin": "TTWofwAg",
+          "verdict": "seen",
+          "reason": "@diarra_mmd \u00b7 detected",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "21:15:26",
+          "coin": "DKYcjobF",
+          "verdict": "kill",
+          "reason": "@diarra_mmd \u00b7 scanner \u00b7 already decided",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "21:15:23",
+          "coin": "DKYcjobF",
+          "verdict": "seen",
+          "reason": "@diarra_mmd \u00b7 detected",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "17:02:07",
+          "coin": "AudaCity",
+          "verdict": "kill",
+          "reason": "@diarra_mmd \u00b7 auditor \u00b7 no data: delegations",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "17:01:59",
+          "coin": "AudaCity",
+          "verdict": "pass",
+          "reason": "@diarra_mmd \u00b7 scanner",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "17:01:28",
+          "coin": "DKYcjobF",
+          "verdict": "seen",
+          "reason": "@diarra_mmd \u00b7 detected",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "14:12:41",
+          "coin": "Privacy ",
+          "verdict": "kill",
+          "reason": "@diarra_mmd \u00b7 scanner \u00b7 liq $30.2K",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "14:11:34",
+          "coin": "Hy4iuJwu",
+          "verdict": "seen",
+          "reason": "@diarra_mmd \u00b7 detected",
+          "source": "copy:diarra_mmd"
+        },
+        {
+          "ts": "04:03:44",
+          "coin": "eL5fUxj2",
+          "verdict": "kill",
+          "reason": "@minhxdynasty \u00b7 scanner \u00b7 already decided",
+          "source": "copy:minhxdynasty"
+        },
+        {
+          "ts": "04:03:13",
+          "coin": "eL5fUxj2",
+          "verdict": "seen",
+          "reason": "@minhxdynasty \u00b7 detected",
+          "source": "copy:minhxdynasty"
+        },
+        {
+          "ts": "03:42:09",
+          "coin": "Unicorn ",
+          "verdict": "kill",
+          "reason": "@minhxdynasty \u00b7 scanner \u00b7 top 10 hold 30%",
+          "source": "copy:minhxdynasty"
+        },
+        {
+          "ts": "03:41:03",
+          "coin": "eL5fUxj2",
+          "verdict": "seen",
+          "reason": "@minhxdynasty \u00b7 detected",
+          "source": "copy:minhxdynasty"
+        }
+      ]
+    }
+  ],
+  "activity": [
+    {
+      "ts": "2026-11-28T14:22:51Z",
+      "kind": "rejected",
+      "mint": "ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump",
+      "agent": "scanner",
+      "title": "Planimal",
+      "subtitle": "Scanner \u00b7 liq $11.7K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:22:51Z",
+      "kind": "rejected",
+      "mint": "4fPvmLxt4RNvwTzV9EtxwAsujhjkRsTm6Rt9mS4Upump",
+      "agent": "scanner",
+      "title": "You guys are getting paid?",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:22:50Z",
+      "kind": "rejected",
+      "mint": "4Hv8T8NQojXJJinB64fKgLq4iNrrSrSni2TcyRbMpump",
+      "agent": "scanner",
+      "title": "Snow Share",
+      "subtitle": "Scanner \u00b7 liq $11.2K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:22:49Z",
+      "kind": "scan",
+      "mint": "HHzUPcfetiSFo7cJatdmQV67P85uoCCgiHMWLYjMpump",
+      "agent": "scanner",
+      "title": "Migration HHzUPc\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:20:49Z",
+      "kind": "scan",
+      "mint": "ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump",
+      "agent": "scanner",
+      "title": "Migration ECDVGE\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:20:30Z",
+      "kind": "scan",
+      "mint": "4fPvmLxt4RNvwTzV9EtxwAsujhjkRsTm6Rt9mS4Upump",
+      "agent": "scanner",
+      "title": "Migration 4fPvmL\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:19:46Z",
+      "kind": "scan",
+      "mint": "4Hv8T8NQojXJJinB64fKgLq4iNrrSrSni2TcyRbMpump",
+      "agent": "scanner",
+      "title": "Migration 4Hv8T8\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:16:44Z",
+      "kind": "rejected",
+      "mint": "9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump",
+      "agent": "scanner",
+      "title": "fix check",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:16:43Z",
+      "kind": "rejected",
+      "mint": "F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump",
+      "agent": "scanner",
+      "title": "MoonBoy",
+      "subtitle": "Scanner \u00b7 liq $11.4K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:16:36Z",
+      "kind": "rejected",
+      "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump",
+      "agent": "scanner",
+      "title": "do nothing and win",
+      "subtitle": "Scanner \u00b7 liq $17.5K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:13:38Z",
+      "kind": "scan",
+      "mint": "9raaacUT1XrUKv3sjbh8nfyuhLhtrCda6zcKZ2LQpump",
+      "agent": "scanner",
+      "title": "Migration 9raaac\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:13:18Z",
+      "kind": "rejected",
+      "mint": "5uQ1JcBKY9SVY22BZnc9mHpd94jnWHpVKo68Wf5Qpump",
+      "agent": "scanner",
+      "title": "PUMP",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:13:17Z",
+      "kind": "rejected",
+      "mint": "CajDcXd6rbCCemwX1XXVHyG2UYypFtoFDFo7imahpump",
+      "agent": "scanner",
+      "title": "ATX",
+      "subtitle": "Scanner \u00b7 liq $1.8K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:13:14Z",
+      "kind": "scan",
+      "mint": "F5BgYaqKL8rZDLUkHN6rY6EqyoHJrTmjdFfcMRw1pump",
+      "agent": "scanner",
+      "title": "Migration F5BgYa\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:13:06Z",
+      "kind": "scan",
+      "mint": "q9VM1LRTCB7P7TNLRKyZJUPtdoH3e9FRuVFyY9Xpump",
+      "agent": "scanner",
+      "title": "Migration q9VM1L\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:11:15Z",
+      "kind": "scan",
+      "mint": "5uQ1JcBKY9SVY22BZnc9mHpd94jnWHpVKo68Wf5Qpump",
+      "agent": "scanner",
+      "title": "Migration 5uQ1Jc\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:10:16Z",
+      "kind": "scan",
+      "mint": "CajDcXd6rbCCemwX1XXVHyG2UYypFtoFDFo7imahpump",
+      "agent": "scanner",
+      "title": "Migration CajDcX\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:10:07Z",
+      "kind": "rejected",
+      "mint": "GnhPU69xQSrgTe8NQxJn8S7jSk4zpQwWcyQuLxHDpump",
+      "agent": "scanner",
+      "title": "SATINU",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:09:47Z",
+      "kind": "rejected",
+      "mint": "CGYQExMmiTRVU4iuUS7CEopNNuJzWrcEZZXVDMt1pump",
+      "agent": "scanner",
+      "title": "The Black Bull",
+      "subtitle": "Scanner \u00b7 liq $11.5K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:09:32Z",
+      "kind": "rejected",
+      "mint": "B2vz7PhEASiQ8Da9y5sM3p2J4qqkc1RASBr42QEwpump",
+      "agent": "scanner",
+      "title": "DACITY",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:08:59Z",
+      "kind": "scan",
+      "mint": "GnhPU69xQSrgTe8NQxJn8S7jSk4zpQwWcyQuLxHDpump",
+      "agent": "scanner",
+      "title": "Migration GnhPU6\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:07:27Z",
+      "kind": "scan",
+      "mint": "CGYQExMmiTRVU4iuUS7CEopNNuJzWrcEZZXVDMt1pump",
+      "agent": "scanner",
+      "title": "Migration CGYQEx\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:06:21Z",
+      "kind": "rejected",
+      "mint": "NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump",
+      "agent": "scanner",
+      "title": "do nothing and win",
+      "subtitle": "Scanner \u00b7 liq $15.4K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:06:02Z",
+      "kind": "rejected",
+      "mint": "DqTMppoGMwuCge3sRyfFYw48moBM1wetr79cvs73pump",
+      "agent": "scanner",
+      "title": "BUY!",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:06:01Z",
+      "kind": "scan",
+      "mint": "B2vz7PhEASiQ8Da9y5sM3p2J4qqkc1RASBr42QEwpump",
+      "agent": "scanner",
+      "title": "Migration B2vz7P\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:06:00Z",
+      "kind": "rejected",
+      "mint": "gGUroLU4SSS2gFBJBFj3TrWbciHhQLbTCBy1ov3pump",
+      "agent": "scanner",
+      "title": "Percy the owl",
+      "subtitle": "Scanner \u00b7 liq $10.7K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:04:22Z",
+      "kind": "scan",
+      "mint": "NifiKQLLrEPFv13wmpTfywQMNA1pvooyyhN9tf9pump",
+      "agent": "scanner",
+      "title": "Migration NifiKQ\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:04:02Z",
+      "kind": "scan",
+      "mint": "DqTMppoGMwuCge3sRyfFYw48moBM1wetr79cvs73pump",
+      "agent": "scanner",
+      "title": "Migration DqTMpp\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:02:50Z",
+      "kind": "scan",
+      "mint": "gGUroLU4SSS2gFBJBFj3TrWbciHhQLbTCBy1ov3pump",
+      "agent": "scanner",
+      "title": "Migration gGUroL\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:02:41Z",
+      "kind": "rejected",
+      "mint": "14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump",
+      "agent": "scanner",
+      "title": "TikTok | Official Team",
+      "subtitle": "Scanner \u00b7 liq $5.3K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T14:02:05Z",
+      "kind": "scan",
+      "mint": "14dxyCmVr96qC2h3SgZqvGzm4DXXHLkcw2xZeAwVpump",
+      "agent": "scanner",
+      "title": "Migration 14dxyC\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:56:23Z",
+      "kind": "rejected",
+      "mint": "5mL92bMeMqi5ZeVJS4A1BX5PQj9jXEM4NpH1o8G7pump",
+      "agent": "scanner",
+      "title": "Snow Share",
+      "subtitle": "Scanner \u00b7 liq $12.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:54:47Z",
+      "kind": "scan",
+      "mint": "5mL92bMeMqi5ZeVJS4A1BX5PQj9jXEM4NpH1o8G7pump",
+      "agent": "scanner",
+      "title": "Migration 5mL92b\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:53:03Z",
+      "kind": "rejected",
+      "mint": "2B8Kg2VPRM6ceM7TSr8wkq2yktTVoYrbibTWHdPcpump",
+      "agent": "scanner",
+      "title": "EVERYONE BUY ",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:50:53Z",
+      "kind": "scan",
+      "mint": "2B8Kg2VPRM6ceM7TSr8wkq2yktTVoYrbibTWHdPcpump",
+      "agent": "scanner",
+      "title": "Migration 2B8Kg2\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:46:58Z",
+      "kind": "rejected",
+      "mint": "8b26nAYzKAZgVV7cvvFp8UqS2EzvjGFuopCjS4Zxpump",
+      "agent": "scanner",
+      "title": "SpaceX",
+      "subtitle": "Scanner \u00b7 liq $10.9K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:46:58Z",
+      "kind": "rejected",
+      "mint": "EvN4RDyoqUTpCcrvz5QTAdHVqypgxV4MCR77Bfnjpump",
+      "agent": "scanner",
+      "title": "John Stockman",
+      "subtitle": "Scanner \u00b7 liq $12.5K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:46:53Z",
+      "kind": "rejected",
+      "mint": "58JPFChXges3fegWtTFsdgqzcWLQ4Abc8v5cDLf3pump",
+      "agent": "scanner",
+      "title": "58JPFChX",
+      "subtitle": "Scanner \u00b7 never qualified",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:45:58Z",
+      "kind": "scan",
+      "mint": "8b26nAYzKAZgVV7cvvFp8UqS2EzvjGFuopCjS4Zxpump",
+      "agent": "scanner",
+      "title": "Migration 8b26nA\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:44:46Z",
+      "kind": "scan",
+      "mint": "EvN4RDyoqUTpCcrvz5QTAdHVqypgxV4MCR77Bfnjpump",
+      "agent": "scanner",
+      "title": "Migration EvN4RD\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:40:53Z",
+      "kind": "rejected",
+      "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
+      "agent": "scanner",
+      "title": "KNM Labs",
+      "subtitle": "Scanner \u00b7 liq $11.2K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:39:26Z",
+      "kind": "scan",
+      "mint": "A5PBhCQS2EuJFQ1NVH7yR2SpSDvhkRDi1FhysVM2pump",
+      "agent": "scanner",
+      "title": "Migration A5PBhC\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:37:36Z",
+      "kind": "rejected",
+      "mint": "HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump",
+      "agent": "scanner",
+      "title": "HOHOCOIN",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:37:36Z",
+      "kind": "rejected",
+      "mint": "9C19jyhDzmq8ey78byP6QimDTz58PooNuc3feVLfpump",
+      "agent": "scanner",
+      "title": "EVERYONE BUY",
+      "subtitle": "Scanner \u00b7 liq $0.0K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:37:14Z",
+      "kind": "rejected",
+      "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump",
+      "agent": "scanner",
+      "title": "Bagwork",
+      "subtitle": "Scanner \u00b7 liq $10.5K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:35:47Z",
+      "kind": "scan",
+      "mint": "HRtBmBzJHoPQTYkMrmbjQyS61o7cqhUJnE3GHLCdpump",
+      "agent": "scanner",
+      "title": "Migration HRtBmB\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:34:03Z",
+      "kind": "scan",
+      "mint": "9C19jyhDzmq8ey78byP6QimDTz58PooNuc3feVLfpump",
+      "agent": "scanner",
+      "title": "Migration 9C19jy\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:33:57Z",
+      "kind": "rejected",
+      "mint": "ud7kEPDE1fA2eBcvTx1YANUYpvvnVYz8JmC6eQopump",
+      "agent": "scanner",
+      "title": "TikTok | Official Team",
+      "subtitle": "Scanner \u00b7 liq $11.7K",
+      "value": "Skipped",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:33:44Z",
+      "kind": "scan",
+      "mint": "5qDeCs9MkTAhk6q76XvKrZgimoQdJowuSWbjSZKvpump",
+      "agent": "scanner",
+      "title": "Migration 5qDeCs\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    },
+    {
+      "ts": "2026-11-28T13:30:49Z",
+      "kind": "scan",
+      "mint": "ud7kEPDE1fA2eBcvTx1YANUYpvvnVYz8JmC6eQopump",
+      "agent": "scanner",
+      "title": "Migration ud7kEP\u2026",
+      "subtitle": "waiting room",
+      "value": "",
+      "source": null
+    }
+  ],
+  "account": {
+    "mode": "PAPER",
+    "stack": 600.0,
+    "stop_pct": 6.0,
+    "trail_pct": 12.0,
+    "analyst_mode": "rules",
+    "fomo_handle": "bryantrades05120",
+    "profile_url": "https://fomo.family/profile/bryantrades05120?source=share_link&r=savipww",
+    "signup_url": "https://fomo.family/r/savipww",
+    "notifier": "telegram",
+    "webpush": false,
+    "plan": "B"
+  },
+  "chart": {
+    "LIVE": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ],
+    "1H": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ],
+    "4H": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ],
+    "1D": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ],
+    "1W": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ],
+    "ALL": [
+      {
+        "t": "2026-11-06T09:01:08Z",
+        "v": 600.0
+      }
+    ]
+  },
+  "chart_points": [
+    {
+      "t": "2026-11-06T09:01:08Z",
+      "v": 600.0
+    }
+  ],
+  "chart_marks": [],
+  "publish_every_s": 480,
+  "copy": {
+    "signals": [
+      {
+        "ts": "2026-11-12T22:26:13Z",
+        "handle": "starcatcher444",
+        "wallet": "6xmMW5JPSEfeRuNdkxixHWsm4Sf57SdXybA3BdwZzrM1",
+        "mint": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+        "signature": "2Q7im5gAeZUPE4zVu8aWCEnpQQVjLu22UKZHeLjsHLx8vogRQznaJXuv9HEzuRCVj8aoS5WzUMpDFn2QwP8dJk1t",
+        "symbol": "ALLINU",
+        "source": "copy:starcatcher444",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "top 10 hold 26%"
+      },
+      {
+        "ts": "2026-11-12T22:24:48Z",
+        "handle": "starcatcher444",
+        "wallet": "6xmMW5JPSEfeRuNdkxixHWsm4Sf57SdXybA3BdwZzrM1",
+        "mint": "4MMQY9bwkxxTtsK3W227Q5ABT6yFY8Pmn9Ze7wmAXKY8",
+        "signature": "2Q7im5gAeZUPE4zVu8aWCEnpQQVjLu22UKZHeLjsHLx8vogRQznaJXuv9HEzuRCVj8aoS5WzUMpDFn2QwP8dJk1t",
+        "symbol": null,
+        "source": "copy:starcatcher444",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T21:15:36Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+        "signature": "28XhiudxS5kWH4k2zbgju3qikFxhrEmdQckAAHTVP12KBhLGEhnBWbvrDtKehRMyhH8TTZ7tdGPZfQ7s1jUvYmro",
+        "symbol": "Take-Two Interactive Software - Backpack Securities",
+        "source": "copy:diarra_mmd",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "top 10 hold 28%"
+      },
+      {
+        "ts": "2026-11-12T21:15:23Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "TTWofwAge91oFhZs7kpQdyrVRkmevgM88xijGvQFbKo",
+        "signature": "28XhiudxS5kWH4k2zbgju3qikFxhrEmdQckAAHTVP12KBhLGEhnBWbvrDtKehRMyhH8TTZ7tdGPZfQ7s1jUvYmro",
+        "symbol": null,
+        "source": "copy:diarra_mmd",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T21:15:26Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "signature": "28XhiudxS5kWH4k2zbgju3qikFxhrEmdQckAAHTVP12KBhLGEhnBWbvrDtKehRMyhH8TTZ7tdGPZfQ7s1jUvYmro",
+        "symbol": null,
+        "source": "copy:diarra_mmd",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "already decided"
+      },
+      {
+        "ts": "2026-11-12T21:15:23Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "signature": "28XhiudxS5kWH4k2zbgju3qikFxhrEmdQckAAHTVP12KBhLGEhnBWbvrDtKehRMyhH8TTZ7tdGPZfQ7s1jUvYmro",
+        "symbol": null,
+        "source": "copy:diarra_mmd",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T17:02:07Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "signature": "4Z7ffwQ6kTjnAWz8rtTRfyQGu3yxUpV8R3NuqyuvCde9oPUxzbtUpfzWYuYK5puV6bkVaqcvCd4izmNaH2Lv7V8U",
+        "symbol": "AudaCity",
+        "source": "copy:diarra_mmd",
+        "stage": "auditor",
+        "verdict": "kill",
+        "reason": "no data: delegations"
+      },
+      {
+        "ts": "2026-11-12T17:01:59Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "signature": "4Z7ffwQ6kTjnAWz8rtTRfyQGu3yxUpV8R3NuqyuvCde9oPUxzbtUpfzWYuYK5puV6bkVaqcvCd4izmNaH2Lv7V8U",
+        "symbol": "AudaCity",
+        "source": "copy:diarra_mmd",
+        "stage": "scanner",
+        "verdict": "pass",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T17:01:28Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+        "signature": "4Z7ffwQ6kTjnAWz8rtTRfyQGu3yxUpV8R3NuqyuvCde9oPUxzbtUpfzWYuYK5puV6bkVaqcvCd4izmNaH2Lv7V8U",
+        "symbol": null,
+        "source": "copy:diarra_mmd",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T14:12:41Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "Hy4iuJwuo9hAUMgMsNpFXANvKSnGmFFqcjBZuiCFpJCP",
+        "signature": "2J7kTbEC1MHPwZQvENX6gV1wQ1mnJxBwj3BMqA1QH6suEgF2FjbRcvh9AxNzMVnjSET6KjwdwUqhD3p3W1jfn248",
+        "symbol": "Privacy Inu",
+        "source": "copy:diarra_mmd",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "liq $30.2K"
+      },
+      {
+        "ts": "2026-11-12T14:11:34Z",
+        "handle": "diarra_mmd",
+        "wallet": "5mqi9RDFzbrevHvzWPR8D66gKR582oqZRxdiNHsgrY41",
+        "mint": "Hy4iuJwuo9hAUMgMsNpFXANvKSnGmFFqcjBZuiCFpJCP",
+        "signature": "2J7kTbEC1MHPwZQvENX6gV1wQ1mnJxBwj3BMqA1QH6suEgF2FjbRcvh9AxNzMVnjSET6KjwdwUqhD3p3W1jfn248",
+        "symbol": null,
+        "source": "copy:diarra_mmd",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T04:03:44Z",
+        "handle": "minhxdynasty",
+        "wallet": "3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS",
+        "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "signature": "2iBa8vZmwZJg9JZsL7QSZ6m5sDYS7JHNErWXyFx6615rZDZCTsxqBXkmLquukxaBRnWciaUCdx5j5LWqQD52aamo",
+        "symbol": null,
+        "source": "copy:minhxdynasty",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "already decided"
+      },
+      {
+        "ts": "2026-11-12T04:03:13Z",
+        "handle": "minhxdynasty",
+        "wallet": "3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS",
+        "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "signature": "2iBa8vZmwZJg9JZsL7QSZ6m5sDYS7JHNErWXyFx6615rZDZCTsxqBXkmLquukxaBRnWciaUCdx5j5LWqQD52aamo",
+        "symbol": null,
+        "source": "copy:minhxdynasty",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      },
+      {
+        "ts": "2026-11-12T03:42:09Z",
+        "handle": "minhxdynasty",
+        "wallet": "3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS",
+        "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "signature": "2JshEuwSyrbjjPExSGw286xHomMpmMyQFMgYLkneePAdRJh49heecb9Ukh7RT5EvKF8Nn1wSe7awH8h6ieFFALGq",
+        "symbol": "Unicorn Fart Dust",
+        "source": "copy:minhxdynasty",
+        "stage": "scanner",
+        "verdict": "kill",
+        "reason": "top 10 hold 30%"
+      },
+      {
+        "ts": "2026-11-12T03:41:03Z",
+        "handle": "minhxdynasty",
+        "wallet": "3WxibuvNHxSfMY5mBXfzqmbA3svtKpWBUtCqan33PxJS",
+        "mint": "eL5fUxj2J4CiQsmW85k5FG9DvuQjjUoBHoQBi2Kpump",
+        "signature": "2JshEuwSyrbjjPExSGw286xHomMpmMyQFMgYLkneePAdRJh49heecb9Ukh7RT5EvKF8Nn1wSe7awH8h6ieFFALGq",
+        "symbol": null,
+        "source": "copy:minhxdynasty",
+        "stage": "detected",
+        "verdict": "seen",
+        "reason": null
+      }
+    ],
+    "detected": 7,
+    "paper_trades": 0
+  }
+}

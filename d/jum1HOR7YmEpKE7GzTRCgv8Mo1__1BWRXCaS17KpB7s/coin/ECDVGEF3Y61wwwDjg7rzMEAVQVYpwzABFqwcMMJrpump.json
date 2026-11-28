@@ -1,0 +1,18 @@
+{
+  "mint": "ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump",
+  "name": "Planimal",
+  "symbol": "PLANIMAL",
+  "price": 3.301e-05,
+  "candles": [
+    {
+      "t": "2026-11-28T14:22:51Z",
+      "v": 3.301e-05
+    }
+  ],
+  "market_cap": null,
+  "liquidity": null,
+  "holders": null,
+  "age": null,
+  "coin_url": "https://fomo.family/coin?address=ECDVGEF3Y61wwwDjg7rzMEAVQVYpwzABFqwcMMJrpump&chainId=1399811149&r=savipww&source=share_link",
+  "position": null
+}
